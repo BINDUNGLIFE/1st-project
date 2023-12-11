@@ -6,7 +6,7 @@ func solution(_ n: Int) -> Int {
             return x  // 해당 x를 반환
         }
     }
-    return 0  // 조건을 만족하는 x가 없는 경우 (이론적으로 이 부분은 실행되지 않습니다)
+    return 0  // 조건을 만족하는 x가 없는 경우 
 }
 
 // 테스트 케이스
